@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.main-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.inner-container {
+  border: 2px solid #000000;
+  border-radius: 20px;
+  text-align: center;
+  color: #ffffff;
+  background-color: #000000;
+}
+
+.inner-container-dark {
+  border: 2px solid #000000;
+  border-radius: 20px;
+  text-align: center;
+  color: #000000;
+  background-color: #ffffff;
+}
+.button {
+  padding: 10px;
+  border-radius: 5px;
+}
